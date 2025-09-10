@@ -16,3 +16,17 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 - Power BI Dashboarding: Built interactive dashboards to track performance and visualize key insights.
 
 - Insights Generation: Extracted actionable insights to optimize operations and improve decision-making.
+
+## Data Fields
+
+- Booking Details: Date, time, booking ID, status, customer ID, vehicle type
+
+- Location Information: Pickup and drop-off points
+
+- Ride Metrics: Vehicle Turnaround Time (VTAT), Customer Turnaround Time (CTAT), ride distance
+
+- Financial Data: Booking value, payment method
+
+- Cancellations: Cancellation details (by driver, by customer) with reasons
+
+- Ratings: Driver ratings, customer ratings
