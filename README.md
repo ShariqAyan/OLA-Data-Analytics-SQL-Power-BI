@@ -30,3 +30,23 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 - Cancellations: Cancellation details (by driver, by customer) with reasons
 
 - Ratings: Driver ratings, customer ratings
+
+## Tools & Technologies
+
+- SQL – Data querying, business analysis (successful bookings, cancellations, revenue insights)
+
+- Power BI – Interactive dashboards, DAX measures, KPI tracking & performance analysis
+
+- Excel / CSV – Data source for loading into Power BI
+
+## SQL Queries Implemented
+
+✔ Retrieve all successful bookings ✔ Average ride distance per vehicle type ✔ Total cancelled rides (by customer/driver) ✔ Top 5 customers by rides & booking value ✔ Maximum & minimum driver ratings per vehicle type ✔ Revenue by payment method ✔ Customer vs Driver rating comparisons
+
+## Power BI Dashboard Features
+
+- Overall Performance – Total Bookings, Booking Value, Ride Volume Trend
+- Vehicle Type Analysis – Booking Value, Distance Travelled, Success Rate
+- Revenue Analysis – Revenue by Payment Method, Top Customers, Revenue by Rides
+- Cancellations – Breakdown by Customer & Driver with detailed reasons
+- Ratings – Driver vs Customer rating comparison by vehicle type
