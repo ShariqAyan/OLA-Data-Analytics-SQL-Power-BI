@@ -51,10 +51,10 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 - Cancellations – Breakdown by Customer & Driver with detailed reasons
 - Ratings – Driver vs Customer rating comparison by vehicle type
 
-  ## Dashboard
+## Dashboard
   
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%201.png" />
-<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
-<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
-<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
-<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%202.png" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%203.png" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%204.png" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%205.png" />
