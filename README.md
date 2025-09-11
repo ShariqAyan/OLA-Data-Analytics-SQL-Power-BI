@@ -53,8 +53,7 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 
   ## Dashboard
   
-<img width="1307" height="735" alt="<img width="1313" height="738" alt="Slide 1" src="https://github.com/user-attachments/assets/8b58cf05-330b-484e-b8bd-597f31ade337" />
-" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%201.png" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
