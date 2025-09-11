@@ -58,3 +58,15 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%203.png" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%204.png" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%205.png" />
+
+## Key Insights
+
+✅ 62% rides were successful while ~28% were cancellations.
+
+✅ Cash & UPI dominated payment preferences (~$33M combined).
+
+✅ Prime Sedan, SUV, and E-Bike emerged as top vehicle performers.
+
+✅ Cancellations: Customers mostly cited “driver not moving towards pickup”, while drivers cited “personal/car issues”.
+
+✅ Ratings were stable at ~4.0 across both drivers and customers.
