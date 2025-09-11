@@ -51,7 +51,7 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 - Cancellations – Breakdown by Customer & Driver with detailed reasons
 - Ratings – Driver vs Customer rating comparison by vehicle type
 
-## Dashboard
+## Dashboards
   
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%201.png" />
 <img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/ShariqAyan/Ola-Data-Analytics-SQL-Power-BI/blob/main/Dashboard_Snapshots/Slide%202.png" />
