@@ -5,31 +5,31 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 
 ## Project Workflow
 
-- Requirement Gathering: Identified and defined key business KPIs and metrics.
+- Requirement Gathering – Identified and defined key business KPIs and metrics.
 
-- Data Generation & Exploration: Created and explored a dataset of 100K+ booking records with detailed ride attributes.
+- Data Generation & Exploration – Created and explored a dataset of 100K+ booking records with detailed ride attributes.
 
-- SQL Analysis: Developed queries to analyze bookings, cancellations, revenues, and customer ratings.
+- SQL Analysis – Developed queries to analyze bookings, cancellations, revenues, and customer ratings.
 
-- Data Cleaning & Modeling: Cleaned, transformed, and structured the dataset for efficient BI reporting.
+- Data Cleaning & Modeling – Cleaned, transformed, and structured the dataset for efficient BI reporting.
 
-- Power BI Dashboarding: Built interactive dashboards to track performance and visualize key insights.
+- Power BI Dashboarding – Built interactive dashboards to track performance and visualize key insights.
 
-- Insights Generation: Extracted actionable insights to optimize operations and improve decision-making.
+- Insights Generation – Extracted actionable insights to optimize operations and improve decision-making.
 
 ## Data Fields
 
-- Booking Details: Date, time, booking ID, status, customer ID, vehicle type
+- Booking Details – Date, time, booking ID, status, customer ID, vehicle type
 
-- Location Information: Pickup and drop-off points
+- Location Information – Pickup and drop-off points
 
-- Ride Metrics: Vehicle Turnaround Time (VTAT), Customer Turnaround Time (CTAT), ride distance
+- Ride Metrics – Vehicle Turnaround Time (VTAT), Customer Turnaround Time (CTAT), ride distance
 
-- Financial Data: Booking value, payment method
+- Financial Data – Booking value, payment method
 
-- Cancellations: Cancellation details (by driver, by customer) with reasons
+- Cancellations – Cancellation details (by driver, by customer) with reasons
 
-- Ratings: Driver ratings, customer ratings
+- Ratings – Driver ratings, customer ratings
 
 ## Tools & Technologies
 
@@ -50,3 +50,12 @@ This project involves comprehensive analysis of Ola ride booking data to derive 
 - Revenue Analysis – Revenue by Payment Method, Top Customers, Revenue by Rides
 - Cancellations – Breakdown by Customer & Driver with detailed reasons
 - Ratings – Driver vs Customer rating comparison by vehicle type
+
+  ## Dashboard
+  
+<img width="1307" height="735" alt="<img width="1313" height="738" alt="Slide 1" src="https://github.com/user-attachments/assets/8b58cf05-330b-484e-b8bd-597f31ade337" />
+" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
+<img width="1307" height="735" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/1b418b13-c588-44f0-9182-5b9d372c887d" />
